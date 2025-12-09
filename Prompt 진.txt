@@ -1,0 +1,4 @@
+Prompt
+Date: 2025.12.9
+AI tool: DeeVid AI
+prompt: A가 들어간 기업로고를 하나 만들어줘
